@@ -67,5 +67,5 @@ Built with:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/flowspace.git
+git clone https://github.com/anjali78p/flowspace.git
 cd flowspace
