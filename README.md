@@ -54,7 +54,7 @@ Built with:
 | Layer | Technology |
 |-------|-------------|
 | **Frontend** | React (Vite), HTML5, CSS3, TailwindCSS |
-| **Backend** | FastAPI, SQLAlchemy, Pydantic |
+| **Backend** | FastAPI, SQLAlchemy |
 | **Database** | PostgreSQL |
 | **AI/NLP** | OpenAI API, LangChain, Transformers |
 | **Cache** | Redis |
