@@ -6,7 +6,7 @@
 Built with:
 - ⚡ **FastAPI (Python)** for high-performance backend APIs
 - ⚛️ **React + Vite (JavaScript)** for a modern frontend
-- 🧠 **OpenAI / LangChain / Transformers** for intelligent NLP features
+- 🧠 **GeminiAPI / LangChain / Transformers** for intelligent NLP features
 - 🐘 **PostgreSQL + SQLAlchemy** for robust data persistence
 - 🔄 **WebSockets** for real-time collaboration
 - 🐳 **Docker + docker-compose** for easy deployment
@@ -56,7 +56,7 @@ Built with:
 | **Frontend** | React (Vite), HTML5, CSS3, TailwindCSS |
 | **Backend** | FastAPI, SQLAlchemy |
 | **Database** | PostgreSQL |
-| **AI/NLP** | OpenAI API, LangChain, Transformers |
+| **AI/NLP** | gemini API, LangChain, Transformers |
 | **Cache** | Redis |
 | **Deployment** | Docker |
 | **Testing** | pytest (backend), Jest (frontend) |
