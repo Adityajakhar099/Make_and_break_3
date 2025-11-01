@@ -32,12 +32,6 @@ Built with:
 - Smart summarization of conversations
 - NLP-based workflow automation
 
-### 🧱 No-Code Customization
-- Dynamic board configuration
-- Custom field builder
-- Rule-based automation (IFTTT-style)
-- Card mirroring across boards
-
 ### 💬 Real-Time Collaboration
 - Live updates using WebSockets
 - Comments, mentions, and notifications
