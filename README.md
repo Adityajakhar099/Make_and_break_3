@@ -1,5 +1,6 @@
-# Make_and_break_3
+
 # 🚀 FlowSpace – AI-Powered Flexible Task Management Platform
+# *Bold Bytes*  Make_and_Break_Hackathon
 
 **FlowSpace** is a full-stack, AI-driven productivity and collaboration platform that unifies tasks, messages, and workflows into a single smart dashboard.
 
