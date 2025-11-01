@@ -69,3 +69,18 @@ Built with:
 ```bash
 git clone https://github.com/anjali78p/flowspace.git
 cd flowspace
+
+## 🧑‍💻 Development Commands
+
+### 🐍 Backend (FastAPI)
+
+#### 📦 1. Setup Virtual Environment
+```bash
+cd backend
+python -m venv venv
+source venv/bin/activate   # (Windows: venv\Scripts\activate)
+pip install -r requirements.txt
+
+cd frontend
+npm install
+
