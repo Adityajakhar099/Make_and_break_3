@@ -1,0 +1,21 @@
+version: "3.8"
+services:
+  backend:
+    build: ./backend
+    volumes:
+      - ./backend/app:/app/app
+      - ./backend/flowspace.db:/app/flowspace.db
+    ports:
+      - "8000:8000"
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY:-}
+  frontend:
+    working_dir: /app
+    build:
+      context: ./frontend
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    ports:
+      - "3000:3000"
+    command: ["npm", "run", "dev"]
