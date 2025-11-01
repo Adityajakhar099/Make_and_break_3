@@ -72,10 +72,15 @@ cd flowspace
 #### 📦 1. Setup Virtual Environment
 ```bash
 cd backend
-python -m venv venv
-source venv/bin/activate   # (Windows: venv\Scripts\activate)
+ls
 pip install -r requirements.txt
+
 
 cd frontend
 npm install
+or
+cd frontend
+docker build -t flowspace-frontend .
+docker run -p 3000:3000 flowspace-frontend
+
 
